@@ -19,26 +19,6 @@ This project directly showcases skills required for the UiPath Data Engineer rol
 * Building the data backbone for **AI-powered inventory and pricing applications**.
 * Focusing on **tangible impact** for business operations through data.
 
-## 🏗️ Architecture
-
-Raw Data (CSVs)
-↓
-Python Data Loader (duckdb_loader.py)
-↓
-Local DuckDB Database (retail_data.duckdb)
-↓
-Python Transformations (transform_staging.py, transform_intermediate.py, transform_marts.py)
-↓
-Cleaned/Transformed Data (in DuckDB schemas: staging, intermediate, marts)
-↓
-Python AI/ML Models (inventory_forecaster.py, pricing_recommender.py)
-↓
-AI-driven Insights (in DuckDB schemas: forecasts, recommendations)
-↓
-Python Outbound Integrator (outbound_integrator.py)
-↓
-Processed Data Exports (CSV files in data/processed/ for customer systems)
-
 ## 🛠️ Technologies Used
 
 * **Python:** Primary scripting language for all pipeline components.
@@ -48,26 +28,6 @@ Processed Data Exports (CSV files in data/processed/ for customer systems)
 * **`Faker`:** For generating realistic synthetic data.
 * **`statsmodels`:** Python library for statistical modeling (e.g., ARIMA for forecasting).
 * **`Prophet`:** Meta's forecasting library for time series data.
-
-## 📂 Project Structure
-
-retail_data_platform/
-├── data/
-│   ├── raw/             # Generated raw CSV data (sales, products, etc.)
-│   ├── retail_data.duckdb # The local DuckDB database file
-│   └── processed/       # Exported data for simulated customer systems
-├── scripts/             # All Python scripts for the data pipeline
-│   ├── data_generator.py
-│   ├── duckdb_loader.py
-│   ├── transform_staging.py
-│   ├── transform_intermediate.py
-│   ├── transform_marts.py
-│   ├── inventory_forecaster.py
-│   ├── pricing_recommender.py
-│   └── outbound_integrator.py
-├── README.md            # This project documentation
-├── requirements.txt     # Python dependencies
-└── (other project files like .venv, dbt_minimal_test etc.)
 
 ## 🚀 Getting Started
 
@@ -197,7 +157,5 @@ To effectively showcase this project for your portfolio (especially since it's l
 Feel free to fork this repository and extend its functionality!
 
 ## 📧 Contact
-
 Somya Sharma
-[Your LinkedIn Profile URL]
-[Your GitHub Profile URL]
+somyasharmatech@gmail.com
