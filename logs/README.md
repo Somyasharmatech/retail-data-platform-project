@@ -4,6 +4,17 @@
 
 This project builds an end-to-end data platform for a retail business, focusing on optimizing inventory levels and pricing strategies. It demonstrates the complete data lifecycle, from raw data generation and local ingestion to multi-layered transformations, AI-driven insights (forecasting and recommendations), and outbound data integration.
 
+# Retail Store Supply Chain & Pricing Optimization Data Platform
+
+## 🚀 Project Overview
+
+This project builds an end-to-end data platform for a retail business, focusing on optimizing inventory levels and pricing strategies. It demonstrates the complete data lifecycle, from raw data generation and local ingestion to multi-layered transformations, AI-driven insights (forecasting and recommendations), and outbound data integration.
+
+**[👉 View Live Dashboard Here!](https://retail-data-platform-project-ankfnfxrfg8z4p6wsrsrab.streamlit.app/)**
+
+### Why this project is useful (Problem Solved):
+...
+
 ### Why this project is useful (Problem Solved):
 
 * **Inefficient Inventory:** Helps reduce stockouts and excess inventory by predicting demand.
