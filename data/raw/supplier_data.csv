@@ -1,0 +1,31 @@
+supplier_id,supplier_name,contact_person,lead_time_days,minimum_order_quantity
+SUP001,"Bera, Chawla and Manda Suppliers",Samaksh Hans,13,132
+SUP002,Lall-D’Alia Suppliers,Edhitha Sankar,24,30
+SUP003,"Varughese, Sundaram and Walia Suppliers",Wakeeta Mitra,29,141
+SUP004,Ganesan-Jain Suppliers,Mohini Comar,13,107
+SUP005,Kala-Venkataraman Suppliers,Anjali Sahota,23,185
+SUP006,"Thakur, Buch and Shenoy Suppliers",Jeet Randhawa,3,80
+SUP007,Rastogi Group Suppliers,Lajita Rana,21,82
+SUP008,Vaidya-Magar Suppliers,Bakhshi Verma,18,170
+SUP009,"Oza, Lad and Naik Suppliers",Raghav Behl,11,111
+SUP010,Narasimhan Inc Suppliers,Triveni Ramesh,19,167
+SUP011,Patil-Saraf Suppliers,Yashawini Acharya,22,59
+SUP012,"Dube, Badami and Pandit Suppliers",Jagvi Amble,19,45
+SUP013,"Oak, Mangat and Borde Suppliers",Yahvi Krish,3,158
+SUP014,"Rattan, Lata and Narasimhan Suppliers",Wyatt Kannan,26,14
+SUP015,Sem Inc Suppliers,Logan Badami,25,181
+SUP016,"Hegde, Shere and Agrawal Suppliers",Abeer Kunda,17,75
+SUP017,"Raju, Chawla and Parmar Suppliers",Hiral Bobal,8,184
+SUP018,Nagar-Shah Suppliers,Udarsh Sahni,6,174
+SUP019,Sarraf-Prasad Suppliers,Arunima Dhar,7,16
+SUP020,"Sanghvi, Dyal and Shukla Suppliers",Wakeeta Prakash,11,159
+SUP021,"Krishna, Minhas and Bawa Suppliers",Qasim Bhakta,6,158
+SUP022,"Pall, Ravi and Sangha Suppliers",Jhalak Walia,8,32
+SUP023,Kota-Gupta Suppliers,Chaitaly Narasimhan,29,176
+SUP024,Yadav LLC Suppliers,Avi Morar,30,92
+SUP025,Mangal LLC Suppliers,Veda More,27,111
+SUP026,"Deep, Sane and Pandit Suppliers",Frederick Raju,26,83
+SUP027,Barman-Srivastava Suppliers,Qushi Virk,6,66
+SUP028,Sant-Golla Suppliers,Ladli Aurora,20,158
+SUP029,"Chopra, Bhatia and Ahuja Suppliers",Darika Magar,12,122
+SUP030,Varkey-Deol Suppliers,Gabriel Singh,5,84

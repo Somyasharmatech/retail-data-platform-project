@@ -1,0 +1,201 @@
+product_id,product_name,category,brand,cost_price,weight_kg,dimensions_cm,supplier_id
+PROD0001,Synergistic foreground benchmark,Books,Sarma-Andra,2870.13,4.88,45x15x10,SUP015
+PROD0002,Virtual context-sensitive middleware,Groceries,"Naidu, Gour and Tiwari",269.51,9.04,49x27x49,SUP004
+PROD0003,Vision-oriented composite complexity,Groceries,Das Group,1691.89,6.08,37x44x42,SUP012
+PROD0004,Realigned uniform algorithm,Apparel,Mani-Varty,1239.92,8.96,39x5x23,SUP003
+PROD0005,Compatible methodical function,Books,Bhalla Inc,357.58,1.63,32x26x9,SUP019
+PROD0006,Implemented grid-enabled policy,Books,Bhalla Inc,1873.61,0.72,33x27x19,SUP017
+PROD0007,Decentralized upward-trending conglomeration,Electronics,Boase-Banerjee,1250.41,1.48,26x35x9,SUP020
+PROD0008,Synchronized dynamic moderator,Home Goods,Krish Ltd,1272.08,3.76,45x8x43,SUP007
+PROD0009,Organized real-time hierarchy,Apparel,Chaudry Group,1184.35,9.42,7x29x33,SUP015
+PROD0010,Down-sized regional open system,Books,Sarma-Andra,1540.58,3.99,32x17x41,SUP007
+PROD0011,Switchable incremental Local Area Network,Books,Boase-Banerjee,328.01,4.93,14x34x17,SUP020
+PROD0012,Persevering grid-enabled firmware,Books,Sura-Korpal,1809.06,5.77,24x14x35,SUP019
+PROD0013,User-friendly mission-critical flexibility,Electronics,Mani-Varty,1200.46,0.45,45x6x15,SUP010
+PROD0014,Team-oriented radical capability,Apparel,Boase-Banerjee,2448.22,8.03,48x48x44,SUP012
+PROD0015,Re-engineered static standardization,Books,"Tandon, Badal and Dasgupta",1985.69,1.21,28x47x35,SUP007
+PROD0016,Ergonomic user-facing Graphical User Interface,Groceries,Boase-Banerjee,2087.33,4.68,24x16x23,SUP013
+PROD0017,Balanced transitional function,Books,Madan-Wason,654.4,1.16,44x16x18,SUP016
+PROD0018,Fundamental demand-driven help-desk,Home Goods,"Keer, Mander and Bhakta",486.91,2.23,9x12x10,SUP008
+PROD0019,Virtual encompassing workforce,Home Goods,Jhaveri Ltd,1036.42,1.9,33x18x40,SUP005
+PROD0020,Virtual system-worthy array,Apparel,Chauhan Group,1376.59,9.81,12x21x35,SUP004
+PROD0021,Streamlined responsive Internet solution,Books,"Naidu, Gour and Tiwari",1459.63,8.21,6x29x29,SUP012
+PROD0022,Synchronized systemic emulation,Apparel,Jhaveri Ltd,620.14,7.58,40x7x44,SUP019
+PROD0023,Programmable non-volatile flexibility,Electronics,Sankaran-Sharaf,1329.14,0.29,37x30x33,SUP008
+PROD0024,Exclusive secondary data-warehouse,Home Goods,Chaudry Group,2929.6,6.1,41x8x9,SUP018
+PROD0025,Proactive upward-trending workforce,Groceries,Chauhan Group,2397.86,3.51,5x26x49,SUP004
+PROD0026,Monitored holistic moderator,Groceries,"Keer, Mander and Bhakta",2806.94,8.64,29x28x31,SUP012
+PROD0027,Self-enabling dedicated knowledge user,Apparel,"Naidu, Gour and Tiwari",2092.76,4.76,33x10x28,SUP010
+PROD0028,Balanced next generation collaboration,Home Goods,Mani-Varty,2011.15,6.75,34x25x30,SUP018
+PROD0029,Seamless hybrid time-frame,Apparel,Prabhakar-Johal,1449.92,4.47,11x24x26,SUP001
+PROD0030,Reverse-engineered interactive strategy,Electronics,Kibe-Warrior,267.16,6.1,30x33x37,SUP003
+PROD0031,Enhanced reciprocal throughput,Electronics,Krish Ltd,1406.95,6.76,32x9x6,SUP020
+PROD0032,Multi-channeled directional moderator,Groceries,Prabhakar-Johal,1784.33,5.67,19x15x47,SUP006
+PROD0033,Innovative 5thgeneration open architecture,Electronics,Mani-Varty,1143.81,8.82,15x42x9,SUP012
+PROD0034,Realigned discrete focus group,Apparel,Prabhakar-Johal,262.48,0.79,29x6x7,SUP016
+PROD0035,Progressive intangible function,Groceries,"Keer, Mander and Bhakta",1860.42,9.69,17x24x23,SUP005
+PROD0036,Diverse systemic methodology,Home Goods,Dhaliwal Ltd,1584.96,1.15,24x7x10,SUP009
+PROD0037,Persistent scalable core,Home Goods,"Tandon, Badal and Dasgupta",751.26,6.33,12x47x10,SUP003
+PROD0038,Multi-channeled interactive Graphical User Interface,Home Goods,Kibe-Warrior,1491.77,8.53,48x20x49,SUP006
+PROD0039,Face-to-face 4thgeneration project,Groceries,Prabhakar-Johal,2863.76,9.22,42x36x6,SUP007
+PROD0040,User-centric zero-defect synergy,Home Goods,Madan-Wason,379.76,4.24,48x39x9,SUP010
+PROD0041,Cross-group 4thgeneration extranet,Groceries,Chauhan Group,2208.14,7.62,47x35x44,SUP015
+PROD0042,Customer-focused client-driven Local Area Network,Books,Madan-Wason,773.38,2.81,21x46x49,SUP020
+PROD0043,Configurable actuating software,Home Goods,Kibe-Warrior,255.09,9.13,24x36x31,SUP009
+PROD0044,Upgradable content-based parallelism,Books,Mani-Varty,994.83,6.17,39x49x34,SUP008
+PROD0045,Optimized asynchronous solution,Books,Chauhan Group,86.5,4.17,11x33x16,SUP016
+PROD0046,Pre-emptive 5thgeneration application,Electronics,Madan-Wason,2431.96,2.21,37x38x11,SUP020
+PROD0047,Re-contextualized systematic info-mediaries,Groceries,"Naidu, Gour and Tiwari",1904.93,0.82,45x28x33,SUP004
+PROD0048,Public-key discrete database,Books,"Tandon, Badal and Dasgupta",1906.14,4.02,34x33x16,SUP002
+PROD0049,Right-sized multimedia instruction set,Groceries,Prabhakar-Johal,314.02,4.64,37x33x23,SUP015
+PROD0050,Synchronized web-enabled encryption,Apparel,Boase-Banerjee,2718.07,0.86,20x16x17,SUP013
+PROD0051,Cloned dedicated complexity,Apparel,Mani-Varty,452.01,9.53,33x26x27,SUP003
+PROD0052,Proactive analyzing architecture,Groceries,"Keer, Mander and Bhakta",2214.44,3.58,8x24x21,SUP001
+PROD0053,Team-oriented methodical architecture,Home Goods,Dhaliwal Ltd,2850.15,4.04,28x24x39,SUP005
+PROD0054,Total solution-oriented pricing structure,Apparel,Dhaliwal Ltd,2702.42,2.11,9x25x24,SUP016
+PROD0055,Multi-tiered directional knowledge user,Books,Das Group,624.66,1.85,8x17x50,SUP008
+PROD0056,Front-line systematic function,Books,"Naidu, Gour and Tiwari",1257.19,3.11,10x49x48,SUP013
+PROD0057,User-friendly heuristic adapter,Groceries,Lala-Rao,1101.88,3.58,19x41x21,SUP007
+PROD0058,Future-proofed interactive emulation,Apparel,"Keer, Mander and Bhakta",1645.88,5.0,23x43x12,SUP014
+PROD0059,Profit-focused discrete artificial intelligence,Books,"Keer, Mander and Bhakta",806.92,6.13,33x47x29,SUP004
+PROD0060,Configurable multi-state neural-net,Books,Dhaliwal Ltd,2600.26,3.89,10x42x25,SUP019
+PROD0061,Inverse human-resource instruction set,Apparel,Jhaveri Ltd,760.61,3.27,10x36x21,SUP017
+PROD0062,Reverse-engineered mobile portal,Books,Madan-Wason,1399.92,4.53,36x49x50,SUP012
+PROD0063,Triple-buffered neutral success,Apparel,Mani-Varty,1178.37,8.41,37x18x50,SUP019
+PROD0064,Decentralized needs-based core,Books,Sura-Korpal,590.98,6.79,48x39x39,SUP012
+PROD0065,Sharable scalable initiative,Groceries,Das Group,2016.73,2.66,43x38x21,SUP014
+PROD0066,User-friendly maximized complexity,Apparel,Chauhan Group,1404.02,3.21,35x15x21,SUP009
+PROD0067,Universal reciprocal attitude,Books,Ganguly-Dugal,2254.94,6.32,24x48x21,SUP007
+PROD0068,Organic fresh-thinking support,Electronics,Sankaran-Sharaf,292.4,7.31,50x43x35,SUP017
+PROD0069,Multi-layered fresh-thinking forecast,Books,Das Group,2379.01,3.45,32x47x27,SUP014
+PROD0070,Reactive exuding open system,Home Goods,Bhalla Inc,289.14,1.59,28x17x9,SUP007
+PROD0071,Organic composite synergy,Apparel,Kibe-Warrior,329.88,1.83,42x7x5,SUP005
+PROD0072,Fundamental multimedia Graphical User Interface,Apparel,Chaudry Group,1051.5,0.15,21x39x14,SUP015
+PROD0073,Cloned bandwidth-monitored open architecture,Home Goods,Chauhan Group,1123.08,4.59,5x41x21,SUP018
+PROD0074,Balanced motivating knowledgebase,Home Goods,Das Group,2673.16,1.58,36x12x23,SUP018
+PROD0075,Pre-emptive background middleware,Groceries,Bhalla Inc,362.71,9.43,40x25x39,SUP013
+PROD0076,Expanded local adapter,Apparel,Boase-Banerjee,2771.68,9.98,12x20x25,SUP001
+PROD0077,Multi-channeled empowering definition,Groceries,Chauhan Group,2475.92,6.6,26x19x35,SUP004
+PROD0078,Horizontal encompassing concept,Home Goods,Prabhakar-Johal,2841.85,6.68,47x45x42,SUP009
+PROD0079,Multi-channeled fresh-thinking system engine,Electronics,Kibe-Warrior,1984.34,5.5,27x26x41,SUP015
+PROD0080,Cloned exuding orchestration,Books,Dhaliwal Ltd,1386.01,7.89,38x45x31,SUP002
+PROD0081,Assimilated heuristic methodology,Groceries,Boase-Banerjee,105.62,6.72,13x39x18,SUP014
+PROD0082,Realigned cohesive throughput,Electronics,Chauhan Group,1149.59,7.16,48x13x35,SUP008
+PROD0083,Cloned national task-force,Groceries,Sarma-Andra,177.68,3.91,39x41x35,SUP004
+PROD0084,Operative intangible system engine,Apparel,Sankaran-Sharaf,1706.36,0.22,34x47x49,SUP007
+PROD0085,Down-sized 3rdgeneration structure,Electronics,Boase-Banerjee,732.67,7.77,13x8x14,SUP006
+PROD0086,Monitored radical moratorium,Groceries,Sura-Korpal,1294.55,7.38,41x50x45,SUP002
+PROD0087,Universal directional access,Groceries,Chaudry Group,1550.43,3.81,24x7x30,SUP001
+PROD0088,Optional didactic adapter,Electronics,"Tandon, Badal and Dasgupta",2886.06,3.54,22x37x19,SUP013
+PROD0089,Total scalable definition,Apparel,Jhaveri Ltd,629.47,0.69,48x9x45,SUP001
+PROD0090,Reverse-engineered client-server encryption,Home Goods,"Tandon, Badal and Dasgupta",1052.96,2.69,33x49x46,SUP005
+PROD0091,Compatible well-modulated instruction set,Books,Sarma-Andra,278.37,3.72,15x14x30,SUP008
+PROD0092,Fully-configurable stable matrices,Books,Sarma-Andra,2286.77,3.91,13x10x23,SUP014
+PROD0093,Face-to-face systemic capacity,Apparel,"Tandon, Badal and Dasgupta",672.58,2.3,7x18x8,SUP013
+PROD0094,Ergonomic client-server moratorium,Apparel,Lala-Rao,64.38,7.74,42x33x46,SUP001
+PROD0095,Cross-group high-level knowledge user,Apparel,Sarma-Andra,420.66,8.26,23x17x41,SUP007
+PROD0096,Triple-buffered methodical capability,Electronics,Madan-Wason,2547.98,7.05,34x21x30,SUP005
+PROD0097,Reduced fresh-thinking utilization,Electronics,Sura-Korpal,2215.89,2.6,15x36x5,SUP006
+PROD0098,Business-focused discrete productivity,Groceries,Sarma-Andra,2694.63,3.99,28x24x50,SUP020
+PROD0099,Versatile analyzing projection,Home Goods,"Naidu, Gour and Tiwari",1940.71,5.56,14x34x28,SUP010
+PROD0100,Object-based background projection,Apparel,Chaudry Group,202.39,4.33,15x14x8,SUP019
+PROD0101,User-centric object-oriented knowledge user,Apparel,Kibe-Warrior,787.18,5.67,29x42x14,SUP020
+PROD0102,Robust composite frame,Apparel,Sankaran-Sharaf,131.81,8.94,45x26x48,SUP009
+PROD0103,Integrated zero administration protocol,Groceries,Sankaran-Sharaf,983.23,3.15,26x37x48,SUP006
+PROD0104,Inverse maximized solution,Apparel,"Tandon, Badal and Dasgupta",401.24,7.11,49x34x29,SUP008
+PROD0105,Inverse intangible budgetary management,Electronics,"Tandon, Badal and Dasgupta",2967.21,4.35,18x13x16,SUP018
+PROD0106,Upgradable zero-defect budgetary management,Apparel,Dhaliwal Ltd,1178.04,6.66,18x44x41,SUP008
+PROD0107,Polarized context-sensitive functionalities,Home Goods,Kibe-Warrior,1469.3,5.93,29x37x38,SUP001
+PROD0108,Future-proofed web-enabled firmware,Electronics,"Tandon, Badal and Dasgupta",818.06,8.14,35x23x22,SUP002
+PROD0109,Stand-alone impactful hardware,Apparel,"Tandon, Badal and Dasgupta",1307.23,6.52,9x5x10,SUP003
+PROD0110,Quality-focused neutral superstructure,Electronics,Sankaran-Sharaf,1226.93,3.01,24x17x41,SUP003
+PROD0111,Phased homogeneous infrastructure,Apparel,Ganguly-Dugal,717.89,2.27,43x37x25,SUP010
+PROD0112,Total fault-tolerant framework,Groceries,Sarma-Andra,777.85,9.85,34x17x42,SUP012
+PROD0113,De-engineered analyzing approach,Home Goods,Boase-Banerjee,1544.81,9.8,19x35x41,SUP019
+PROD0114,Mandatory multi-state application,Home Goods,Chauhan Group,1206.0,6.1,49x33x39,SUP018
+PROD0115,Profit-focused user-facing matrices,Apparel,Madan-Wason,247.93,2.48,38x27x25,SUP015
+PROD0116,Re-contextualized didactic circuit,Apparel,Dhaliwal Ltd,552.37,9.27,46x15x44,SUP011
+PROD0117,Innovative asynchronous Internet solution,Apparel,Chaudry Group,1746.96,7.34,6x5x34,SUP007
+PROD0118,Inverse eco-centric middleware,Groceries,Prabhakar-Johal,1905.56,3.03,47x46x39,SUP008
+PROD0119,Open-architected disintermediate service-desk,Home Goods,Jhaveri Ltd,1172.6,2.85,6x20x40,SUP006
+PROD0120,Optimized systematic concept,Groceries,Ganguly-Dugal,2846.02,3.84,40x24x15,SUP004
+PROD0121,Assimilated zero administration core,Apparel,Prabhakar-Johal,2596.84,4.22,14x15x28,SUP001
+PROD0122,De-engineered multimedia encryption,Apparel,"Keer, Mander and Bhakta",2847.57,9.66,25x31x13,SUP007
+PROD0123,Managed fault-tolerant pricing structure,Books,Prabhakar-Johal,1554.07,1.5,9x16x38,SUP005
+PROD0124,Monitored intangible projection,Groceries,Boase-Banerjee,2648.75,3.8,14x40x43,SUP003
+PROD0125,Multi-tiered global knowledgebase,Books,Lala-Rao,982.17,0.69,29x21x48,SUP005
+PROD0126,Multi-tiered multi-state encoding,Apparel,"Naidu, Gour and Tiwari",883.39,1.76,30x29x27,SUP015
+PROD0127,Multi-tiered responsive array,Apparel,Bhalla Inc,1385.94,3.51,26x29x9,SUP010
+PROD0128,Extended zero tolerance adapter,Home Goods,Lala-Rao,1502.88,4.56,32x34x25,SUP011
+PROD0129,Upgradable maximized support,Groceries,"Keer, Mander and Bhakta",1078.97,1.09,9x10x25,SUP008
+PROD0130,Organized client-server forecast,Electronics,Madan-Wason,472.31,8.74,9x15x20,SUP011
+PROD0131,Up-sized contextually-based protocol,Apparel,Prabhakar-Johal,2712.37,3.47,8x19x31,SUP004
+PROD0132,Right-sized web-enabled system engine,Books,Ganguly-Dugal,911.26,8.39,27x48x19,SUP005
+PROD0133,Operative mission-critical service-desk,Apparel,"Naidu, Gour and Tiwari",2558.49,8.01,40x5x32,SUP007
+PROD0134,Quality-focused 24/7 productivity,Home Goods,Bhalla Inc,500.98,2.77,40x45x39,SUP016
+PROD0135,Configurable bi-directional project,Groceries,Lala-Rao,1533.54,3.94,22x40x21,SUP009
+PROD0136,Multi-tiered demand-driven conglomeration,Electronics,Bhalla Inc,1234.16,1.83,22x37x42,SUP018
+PROD0137,Quality-focused bandwidth-monitored projection,Home Goods,Prabhakar-Johal,365.04,7.66,17x34x29,SUP005
+PROD0138,Ergonomic static system engine,Electronics,Prabhakar-Johal,786.7,9.5,34x26x12,SUP010
+PROD0139,Ergonomic next generation throughput,Apparel,Boase-Banerjee,2980.98,4.56,50x41x26,SUP019
+PROD0140,Compatible asynchronous software,Electronics,Jhaveri Ltd,303.81,4.41,21x7x14,SUP007
+PROD0141,Pre-emptive encompassing parallelism,Apparel,Sura-Korpal,389.31,3.11,28x7x26,SUP002
+PROD0142,Programmable global structure,Electronics,Chaudry Group,497.62,9.39,47x9x26,SUP002
+PROD0143,Customizable disintermediate website,Apparel,"Keer, Mander and Bhakta",825.03,1.53,35x12x41,SUP015
+PROD0144,Cloned cohesive task-force,Books,Sankaran-Sharaf,1209.08,4.44,19x6x20,SUP010
+PROD0145,Versatile next generation Graphic Interface,Electronics,Prabhakar-Johal,2365.66,0.68,20x41x39,SUP012
+PROD0146,Optimized methodical portal,Home Goods,"Naidu, Gour and Tiwari",1470.87,6.22,48x23x23,SUP010
+PROD0147,Persevering optimizing definition,Home Goods,Madan-Wason,2539.45,6.49,14x28x30,SUP008
+PROD0148,Organic encompassing implementation,Apparel,Chaudry Group,2799.29,2.73,8x34x8,SUP011
+PROD0149,Cloned non-volatile monitoring,Apparel,"Keer, Mander and Bhakta",661.84,1.1,34x23x31,SUP003
+PROD0150,Multi-tiered executive open architecture,Books,Jhaveri Ltd,2416.44,6.56,24x44x17,SUP019
+PROD0151,Robust secondary success,Electronics,Lala-Rao,534.42,9.34,13x44x29,SUP005
+PROD0152,Total needs-based Graphic Interface,Books,Krish Ltd,2893.6,3.58,30x28x37,SUP018
+PROD0153,Streamlined web-enabled portal,Electronics,Ganguly-Dugal,1627.77,0.91,50x35x12,SUP019
+PROD0154,Integrated grid-enabled Graphic Interface,Apparel,Ganguly-Dugal,1877.2,9.86,10x44x14,SUP014
+PROD0155,Integrated foreground hardware,Groceries,"Keer, Mander and Bhakta",576.62,1.62,13x24x16,SUP020
+PROD0156,Open-source didactic website,Electronics,Mani-Varty,378.18,5.01,19x34x31,SUP004
+PROD0157,Cross-platform background throughput,Groceries,Mani-Varty,1596.96,6.03,14x39x5,SUP001
+PROD0158,Synchronized homogeneous framework,Books,Kibe-Warrior,103.74,8.28,45x24x37,SUP002
+PROD0159,Pre-emptive explicit alliance,Groceries,Boase-Banerjee,2322.93,9.31,21x33x14,SUP012
+PROD0160,Re-engineered cohesive groupware,Groceries,Boase-Banerjee,705.76,8.89,36x16x34,SUP013
+PROD0161,Open-architected 24hour moratorium,Books,"Naidu, Gour and Tiwari",249.73,1.16,45x32x32,SUP014
+PROD0162,Up-sized hybrid task-force,Home Goods,Dhaliwal Ltd,2926.08,4.58,25x5x6,SUP001
+PROD0163,Public-key fault-tolerant framework,Books,"Tandon, Badal and Dasgupta",1238.08,4.17,5x36x24,SUP013
+PROD0164,Optional disintermediate toolset,Groceries,Mani-Varty,2866.42,3.53,11x41x37,SUP003
+PROD0165,Reactive high-level service-desk,Books,Kibe-Warrior,842.89,4.7,21x48x21,SUP019
+PROD0166,Multi-tiered optimizing info-mediaries,Apparel,Sankaran-Sharaf,298.29,3.4,18x36x14,SUP017
+PROD0167,Pre-emptive systemic attitude,Apparel,Boase-Banerjee,1716.76,9.11,20x12x41,SUP006
+PROD0168,Proactive disintermediate infrastructure,Books,"Naidu, Gour and Tiwari",1529.87,9.13,39x23x49,SUP002
+PROD0169,Virtual homogeneous orchestration,Home Goods,"Keer, Mander and Bhakta",1946.76,8.15,44x33x23,SUP014
+PROD0170,Cloned hybrid system engine,Electronics,Lala-Rao,1975.05,7.37,42x45x25,SUP011
+PROD0171,Cross-platform solution-oriented projection,Apparel,Chauhan Group,2169.1,3.1,5x30x15,SUP009
+PROD0172,Right-sized 3rdgeneration knowledgebase,Apparel,Sarma-Andra,1862.88,1.16,29x14x29,SUP008
+PROD0173,Self-enabling discrete architecture,Books,Dhaliwal Ltd,1092.42,7.8,19x7x18,SUP002
+PROD0174,Front-line next generation moratorium,Electronics,Kibe-Warrior,1950.95,9.09,43x22x25,SUP015
+PROD0175,Stand-alone multi-tasking process improvement,Books,Mani-Varty,514.16,3.48,43x46x28,SUP014
+PROD0176,Seamless demand-driven analyzer,Groceries,Dhaliwal Ltd,2739.0,3.12,46x45x31,SUP017
+PROD0177,Mandatory disintermediate methodology,Groceries,Boase-Banerjee,1562.23,1.79,37x5x29,SUP008
+PROD0178,Synchronized well-modulated emulation,Books,Mani-Varty,313.97,3.53,50x10x26,SUP005
+PROD0179,Persistent attitude-oriented paradigm,Groceries,Chauhan Group,546.21,8.17,47x38x48,SUP008
+PROD0180,Optimized context-sensitive help-desk,Books,Madan-Wason,905.49,6.35,48x13x24,SUP006
+PROD0181,Implemented next generation policy,Apparel,Bhalla Inc,2413.7,4.99,43x42x9,SUP009
+PROD0182,Persevering object-oriented framework,Groceries,Sankaran-Sharaf,1274.52,3.4,16x25x22,SUP002
+PROD0183,Vision-oriented 6thgeneration concept,Apparel,Ganguly-Dugal,147.59,4.08,30x40x17,SUP006
+PROD0184,Optimized secondary ability,Groceries,"Tandon, Badal and Dasgupta",1472.88,9.25,15x39x44,SUP017
+PROD0185,Exclusive background encryption,Apparel,"Naidu, Gour and Tiwari",1987.13,0.45,15x46x37,SUP007
+PROD0186,Diverse object-oriented monitoring,Groceries,Sura-Korpal,265.26,7.14,6x7x43,SUP018
+PROD0187,Optional 5thgeneration matrix,Electronics,Krish Ltd,2824.65,0.28,8x8x28,SUP018
+PROD0188,De-engineered systematic framework,Groceries,Prabhakar-Johal,440.74,6.46,34x32x36,SUP007
+PROD0189,Innovative system-worthy attitude,Groceries,Bhalla Inc,943.9,7.63,21x27x36,SUP018
+PROD0190,Down-sized background task-force,Apparel,Das Group,1745.02,3.61,41x12x17,SUP014
+PROD0191,Enterprise-wide reciprocal orchestration,Home Goods,Bhalla Inc,628.11,3.45,10x20x33,SUP012
+PROD0192,Multi-layered directional time-frame,Groceries,Ganguly-Dugal,1561.38,1.6,10x47x31,SUP013
+PROD0193,Fundamental analyzing middleware,Electronics,Sankaran-Sharaf,1925.2,8.38,27x34x10,SUP004
+PROD0194,Managed human-resource customer loyalty,Groceries,Madan-Wason,2844.91,6.26,33x47x39,SUP010
+PROD0195,Innovative methodical methodology,Groceries,Mani-Varty,2455.2,9.29,9x26x30,SUP020
+PROD0196,Ergonomic exuding product,Electronics,"Keer, Mander and Bhakta",478.52,6.71,8x13x23,SUP007
+PROD0197,Multi-channeled incremental leverage,Groceries,Krish Ltd,2590.75,4.55,46x17x23,SUP013
+PROD0198,Future-proofed 4thgeneration model,Apparel,Sura-Korpal,1790.74,7.14,12x10x39,SUP018
+PROD0199,Optimized 24hour task-force,Electronics,Sura-Korpal,996.27,7.08,35x34x32,SUP014
+PROD0200,Up-sized holistic info-mediaries,Groceries,Bhalla Inc,834.67,0.47,5x6x24,SUP006
