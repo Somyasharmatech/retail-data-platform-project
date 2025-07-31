@@ -49,26 +49,6 @@ Processed Data Exports (CSV files in data/processed/ for customer systems)
 * **`statsmodels`:** Python library for statistical modeling (e.g., ARIMA for forecasting).
 * **`Prophet`:** Meta's forecasting library for time series data.
 
-## 📂 Project Structure
-
-retail_data_platform/
-├── data/
-│   ├── raw/             # Generated raw CSV data (sales, products, etc.)
-│   ├── retail_data.duckdb # The local DuckDB database file
-│   └── processed/       # Exported data for simulated customer systems
-├── scripts/             # All Python scripts for the data pipeline
-│   ├── data_generator.py
-│   ├── duckdb_loader.py
-│   ├── transform_staging.py
-│   ├── transform_intermediate.py
-│   ├── transform_marts.py
-│   ├── inventory_forecaster.py
-│   ├── pricing_recommender.py
-│   └── outbound_integrator.py
-├── README.md            # This project documentation
-├── requirements.txt     # Python dependencies
-└── (other project files like .venv, dbt_minimal_test etc.)
-
 ## 🚀 Getting Started
 
 These instructions will get a copy of the project up and running on your local machine.
@@ -199,5 +179,3 @@ Feel free to fork this repository and extend its functionality!
 ## 📧 Contact
 
 Somya Sharma
-[Your LinkedIn Profile URL]
-[Your GitHub Profile URL]
