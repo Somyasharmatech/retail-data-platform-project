@@ -19,26 +19,6 @@ This project directly showcases skills required for the UiPath Data Engineer rol
 * Building the data backbone for **AI-powered inventory and pricing applications**.
 * Focusing on **tangible impact** for business operations through data.
 
-## 🏗️ Architecture
-
-Raw Data (CSVs)
-↓
-Python Data Loader (duckdb_loader.py)
-↓
-Local DuckDB Database (retail_data.duckdb)
-↓
-Python Transformations (transform_staging.py, transform_intermediate.py, transform_marts.py)
-↓
-Cleaned/Transformed Data (in DuckDB schemas: staging, intermediate, marts)
-↓
-Python AI/ML Models (inventory_forecaster.py, pricing_recommender.py)
-↓
-AI-driven Insights (in DuckDB schemas: forecasts, recommendations)
-↓
-Python Outbound Integrator (outbound_integrator.py)
-↓
-Processed Data Exports (CSV files in data/processed/ for customer systems)
-
 ## 🛠️ Technologies Used
 
 * **Python:** Primary scripting language for all pipeline components.
@@ -177,5 +157,5 @@ To effectively showcase this project for your portfolio (especially since it's l
 Feel free to fork this repository and extend its functionality!
 
 ## 📧 Contact
-
 Somya Sharma
+somyasharmatech@gmail.com
