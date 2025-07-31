@@ -22,13 +22,7 @@ This project builds an end-to-end data platform for a retail business, focusing 
 * **Manual Data Handling:** Automates the entire data pipeline, replacing manual, error-prone processes with efficient, automated workflows.
 * **Fueling AI Applications:** Provides clean, structured data necessary for AI-powered inventory and pricing applications.
 
-### Alignment with UiPath Data Engineer Role:
 
-This project directly showcases skills required for the UiPath Data Engineer role by:
-* Creating **seamless data flows** that enhance operational efficiency.
-* Demonstrating expertise in **data transformation and automation** using Python.
-* Building the data backbone for **AI-powered inventory and pricing applications**.
-* Focusing on **tangible impact** for business operations through data.
 
 ## 🛠️ Technologies Used
 
